@@ -1,0 +1,170 @@
+﻿  Generate moc_predefs.h
+  moc_CutDialog.cpp
+  moc_imageShotDialog.cpp
+  moc_mainwindow.cpp
+  CutDialog.cpp
+e:\windows\image\debug\moc_predefs.h(1): warning C4005: “_MSC_EXTENSIONS”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_CutDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_cutdialog.cpp: note: 参见“_MSC_EXTENSIONS”的前一个定义
+e:\windows\image\debug\moc_predefs.h(8): warning C4005: “_WIN64”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_CutDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_cutdialog.cpp: note: 参见“_WIN64”的前一个定义
+e:\windows\image\debug\moc_predefs.h(9): warning C4005: “_WIN32”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_CutDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_cutdialog.cpp: note: 参见“_WIN32”的前一个定义
+e:\windows\image\debug\moc_predefs.h(10): warning C4005: “_CPPRTTI”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_CutDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_cutdialog.cpp: note: 参见“_CPPRTTI”的前一个定义
+e:\windows\image\debug\moc_predefs.h(11): warning C4005: “_DEBUG”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_CutDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_cutdialog.cpp: note: 参见“_DEBUG”的前一个定义
+e:\windows\image\debug\moc_predefs.h(12): warning C4005: “_MT”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_CutDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_cutdialog.cpp: note: 参见“_MT”的前一个定义
+e:\windows\image\debug\moc_predefs.h(13): warning C4005: “_DLL”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_CutDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_cutdialog.cpp: note: 参见“_DLL”的前一个定义
+e:\windows\image\debug\moc_predefs.h(1): warning C4005: “_MSC_EXTENSIONS”: 宏重定义 (编译源文件 CutDialog.cpp)
+  e:\windows\image\cutdialog.cpp: note: 参见“_MSC_EXTENSIONS”的前一个定义
+e:\windows\image\debug\moc_predefs.h(8): warning C4005: “_WIN64”: 宏重定义 (编译源文件 CutDialog.cpp)
+  e:\windows\image\cutdialog.cpp: note: 参见“_WIN64”的前一个定义
+e:\windows\image\debug\moc_predefs.h(9): warning C4005: “_WIN32”: 宏重定义 (编译源文件 CutDialog.cpp)
+  e:\windows\image\cutdialog.cpp: note: 参见“_WIN32”的前一个定义
+e:\windows\image\debug\moc_predefs.h(10): warning C4005: “_CPPRTTI”: 宏重定义 (编译源文件 CutDialog.cpp)
+  e:\windows\image\cutdialog.cpp: note: 参见“_CPPRTTI”的前一个定义
+e:\windows\image\debug\moc_predefs.h(11): warning C4005: “_DEBUG”: 宏重定义 (编译源文件 CutDialog.cpp)
+  e:\windows\image\cutdialog.cpp: note: 参见“_DEBUG”的前一个定义
+e:\windows\image\debug\moc_predefs.h(12): warning C4005: “_MT”: 宏重定义 (编译源文件 CutDialog.cpp)
+  e:\windows\image\cutdialog.cpp: note: 参见“_MT”的前一个定义
+e:\windows\image\debug\moc_predefs.h(13): warning C4005: “_DLL”: 宏重定义 (编译源文件 CutDialog.cpp)
+  e:\windows\image\cutdialog.cpp: note: 参见“_DLL”的前一个定义
+e:\windows\image\cutdialog.cpp(27): warning C4100: “event”: 未引用的形参
+e:\windows\image\cutdialog.cpp(36): warning C4100: “event”: 未引用的形参
+e:\windows\image\debug\moc_predefs.h(1): warning C4005: “_MSC_EXTENSIONS”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_mainwindow.cpp)
+  e:\windows\image\generatedfiles\debug\moc_mainwindow.cpp: note: 参见“_MSC_EXTENSIONS”的前一个定义
+e:\windows\image\debug\moc_predefs.h(8): warning C4005: “_WIN64”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_mainwindow.cpp)
+  e:\windows\image\generatedfiles\debug\moc_mainwindow.cpp: note: 参见“_WIN64”的前一个定义
+e:\windows\image\debug\moc_predefs.h(9): warning C4005: “_WIN32”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_mainwindow.cpp)
+  e:\windows\image\generatedfiles\debug\moc_mainwindow.cpp: note: 参见“_WIN32”的前一个定义
+e:\windows\image\debug\moc_predefs.h(10): warning C4005: “_CPPRTTI”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_mainwindow.cpp)
+  e:\windows\image\generatedfiles\debug\moc_mainwindow.cpp: note: 参见“_CPPRTTI”的前一个定义
+e:\windows\image\debug\moc_predefs.h(11): warning C4005: “_DEBUG”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_mainwindow.cpp)
+  e:\windows\image\generatedfiles\debug\moc_mainwindow.cpp: note: 参见“_DEBUG”的前一个定义
+e:\windows\image\debug\moc_predefs.h(12): warning C4005: “_MT”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_mainwindow.cpp)
+  e:\windows\image\generatedfiles\debug\moc_mainwindow.cpp: note: 参见“_MT”的前一个定义
+e:\windows\image\debug\moc_predefs.h(13): warning C4005: “_DLL”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_mainwindow.cpp)
+  e:\windows\image\generatedfiles\debug\moc_mainwindow.cpp: note: 参见“_DLL”的前一个定义
+e:\windows\image\cutdialog.cpp(177): warning C4100: “event”: 未引用的形参
+e:\windows\image\debug\moc_predefs.h(1): warning C4005: “_MSC_EXTENSIONS”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_imageShotDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_imageshotdialog.cpp: note: 参见“_MSC_EXTENSIONS”的前一个定义
+e:\windows\image\debug\moc_predefs.h(8): warning C4005: “_WIN64”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_imageShotDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_imageshotdialog.cpp: note: 参见“_WIN64”的前一个定义
+e:\windows\image\debug\moc_predefs.h(9): warning C4005: “_WIN32”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_imageShotDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_imageshotdialog.cpp: note: 参见“_WIN32”的前一个定义
+e:\windows\image\debug\moc_predefs.h(10): warning C4005: “_CPPRTTI”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_imageShotDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_imageshotdialog.cpp: note: 参见“_CPPRTTI”的前一个定义
+e:\windows\image\debug\moc_predefs.h(11): warning C4005: “_DEBUG”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_imageShotDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_imageshotdialog.cpp: note: 参见“_DEBUG”的前一个定义
+e:\windows\image\debug\moc_predefs.h(12): warning C4005: “_MT”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_imageShotDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_imageshotdialog.cpp: note: 参见“_MT”的前一个定义
+e:\windows\image\debug\moc_predefs.h(13): warning C4005: “_DLL”: 宏重定义 (编译源文件 .\GeneratedFiles\Debug\moc_imageShotDialog.cpp)
+  e:\windows\image\generatedfiles\debug\moc_imageshotdialog.cpp: note: 参见“_DLL”的前一个定义
+  ImageMerge.cpp
+  imageShotDialog.cpp
+  main.cpp
+e:\windows\image\debug\moc_predefs.h(1): warning C4005: “_MSC_EXTENSIONS”: 宏重定义 (编译源文件 imageShotDialog.cpp)
+  e:\windows\image\imageshotdialog.cpp: note: 参见“_MSC_EXTENSIONS”的前一个定义
+e:\windows\image\debug\moc_predefs.h(8): warning C4005: “_WIN64”: 宏重定义 (编译源文件 imageShotDialog.cpp)
+  e:\windows\image\imageshotdialog.cpp: note: 参见“_WIN64”的前一个定义
+e:\windows\image\debug\moc_predefs.h(9): warning C4005: “_WIN32”: 宏重定义 (编译源文件 imageShotDialog.cpp)
+  e:\windows\image\imageshotdialog.cpp: note: 参见“_WIN32”的前一个定义
+e:\windows\image\debug\moc_predefs.h(10): warning C4005: “_CPPRTTI”: 宏重定义 (编译源文件 imageShotDialog.cpp)
+  e:\windows\image\imageshotdialog.cpp: note: 参见“_CPPRTTI”的前一个定义
+e:\windows\image\debug\moc_predefs.h(11): warning C4005: “_DEBUG”: 宏重定义 (编译源文件 imageShotDialog.cpp)
+  e:\windows\image\imageshotdialog.cpp: note: 参见“_DEBUG”的前一个定义
+e:\windows\image\debug\moc_predefs.h(12): warning C4005: “_MT”: 宏重定义 (编译源文件 imageShotDialog.cpp)
+  e:\windows\image\imageshotdialog.cpp: note: 参见“_MT”的前一个定义
+e:\windows\image\debug\moc_predefs.h(13): warning C4005: “_DLL”: 宏重定义 (编译源文件 imageShotDialog.cpp)
+  e:\windows\image\imageshotdialog.cpp: note: 参见“_DLL”的前一个定义
+e:\windows\image\imageshotdialog.cpp(19): warning C4100: “e”: 未引用的形参
+e:\windows\image\imagemerge.cpp(80): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(81): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(90): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(91): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(100): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(101): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(110): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(111): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(130): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+e:\windows\image\imagemerge.cpp(158): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\windows\image\imagemerge.cpp(182): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\windows\image\imagemerge.cpp(183): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\windows\image\imagemerge.cpp(184): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\windows\image\debug\moc_predefs.h(1): warning C4005: “_MSC_EXTENSIONS”: 宏重定义 (编译源文件 main.cpp)
+  e:\windows\image\main.cpp: note: 参见“_MSC_EXTENSIONS”的前一个定义
+e:\windows\image\debug\moc_predefs.h(8): warning C4005: “_WIN64”: 宏重定义 (编译源文件 main.cpp)
+  e:\windows\image\main.cpp: note: 参见“_WIN64”的前一个定义
+e:\windows\image\debug\moc_predefs.h(9): warning C4005: “_WIN32”: 宏重定义 (编译源文件 main.cpp)
+  e:\windows\image\main.cpp: note: 参见“_WIN32”的前一个定义
+e:\windows\image\debug\moc_predefs.h(10): warning C4005: “_CPPRTTI”: 宏重定义 (编译源文件 main.cpp)
+  e:\windows\image\main.cpp: note: 参见“_CPPRTTI”的前一个定义
+e:\windows\image\debug\moc_predefs.h(11): warning C4005: “_DEBUG”: 宏重定义 (编译源文件 main.cpp)
+  e:\windows\image\main.cpp: note: 参见“_DEBUG”的前一个定义
+e:\windows\image\debug\moc_predefs.h(12): warning C4005: “_MT”: 宏重定义 (编译源文件 main.cpp)
+  e:\windows\image\main.cpp: note: 参见“_MT”的前一个定义
+e:\windows\image\debug\moc_predefs.h(13): warning C4005: “_DLL”: 宏重定义 (编译源文件 main.cpp)
+  e:\windows\image\main.cpp: note: 参见“_DLL”的前一个定义
+  mainwindow.cpp
+e:\windows\image\debug\moc_predefs.h(1): warning C4005: “_MSC_EXTENSIONS”: 宏重定义 (编译源文件 mainwindow.cpp)
+  e:\windows\image\mainwindow.cpp: note: 参见“_MSC_EXTENSIONS”的前一个定义
+e:\windows\image\debug\moc_predefs.h(8): warning C4005: “_WIN64”: 宏重定义 (编译源文件 mainwindow.cpp)
+  e:\windows\image\mainwindow.cpp: note: 参见“_WIN64”的前一个定义
+e:\windows\image\debug\moc_predefs.h(9): warning C4005: “_WIN32”: 宏重定义 (编译源文件 mainwindow.cpp)
+  e:\windows\image\mainwindow.cpp: note: 参见“_WIN32”的前一个定义
+e:\windows\image\debug\moc_predefs.h(10): warning C4005: “_CPPRTTI”: 宏重定义 (编译源文件 mainwindow.cpp)
+  e:\windows\image\mainwindow.cpp: note: 参见“_CPPRTTI”的前一个定义
+e:\windows\image\debug\moc_predefs.h(11): warning C4005: “_DEBUG”: 宏重定义 (编译源文件 mainwindow.cpp)
+  e:\windows\image\mainwindow.cpp: note: 参见“_DEBUG”的前一个定义
+e:\windows\image\debug\moc_predefs.h(12): warning C4005: “_MT”: 宏重定义 (编译源文件 mainwindow.cpp)
+  e:\windows\image\mainwindow.cpp: note: 参见“_MT”的前一个定义
+e:\windows\image\debug\moc_predefs.h(13): warning C4005: “_DLL”: 宏重定义 (编译源文件 mainwindow.cpp)
+  e:\windows\image\mainwindow.cpp: note: 参见“_DLL”的前一个定义
+e:\windows\image\mainwindow.cpp(214): warning C4189: “screen”: 局部变量已初始化但不引用
+  image.vcxproj -> E:\windows\image\debug\image.exe
